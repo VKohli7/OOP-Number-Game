@@ -12,3 +12,6 @@ Players: Class of players.
 Moderator: Class of moderator.
 
 Game: Main program to run the game. 
+
+# Future dev
+To further the game the first approach could be to work on scalability. While the threads and player initialisations, and GUI are generalised to fit n players, the n player win conditions are yet to be done. 
